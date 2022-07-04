@@ -1,1 +1,1 @@
-# Idk
+Tring to make lua script
